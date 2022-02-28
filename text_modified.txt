@@ -1,0 +1,4 @@
+Erstellen Sie die Klasse WordSearch, Worte (Worte)
+welche in einer Textdatei ein anzugebendes (Wort!=!"§)!":....) sucht.
+Alle Zeilen, die dieses Wort mindestens einmal enthalten,
+sollen in eine Textdatei mit speziellem Namen geschrieben werden.
